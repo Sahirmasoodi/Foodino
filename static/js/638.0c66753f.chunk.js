@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkswiggy=self.webpackChunkswiggy||[]).push([[638],{638:(s,e,i)=>{i.r(e),i.d(e,{default:()=>u});i(43);var t=i(579);const u=()=>(0,t.jsx)("div",{children:"this is About"})}}]);
+//# sourceMappingURL=638.0c66753f.chunk.js.map
